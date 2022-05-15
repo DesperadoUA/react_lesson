@@ -1,0 +1,12 @@
+.restaurant_select {
+    border:1px solid red;
+}
+.restaurant_select_top-header {
+    padding: 10px 15px;
+    cursor: pointer;
+    background: aqua;
+}
+.list_item {
+    cursor: pointer;
+    padding: 4px;
+}

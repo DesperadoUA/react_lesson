@@ -1,0 +1,24 @@
+.header-rating_icon {
+    color: gold;
+}
+.header-rating_tag, .header-rating_icon {
+    padding: 4px;
+}
+.header-rating {
+    display: flex;
+}
+.item {
+    border: 1px solid gray;
+    padding: 15px;
+}
+.item_ttl {
+    font-size: 18px;
+    font-weight: bold;
+    color: blueviolet;
+}
+.item_price {
+    color: green;
+}
+.item_thumbnail img {
+    width: 100%;
+}
